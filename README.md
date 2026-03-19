@@ -3,7 +3,7 @@
 
 
 
-![image alt][https://github.com/ivaniguess/Reduction-Project-AST205/blob/f5bb4343d0013f017c3502b1e45867faa86c3fb4/WorkFlow_Diagram.jpg]
+![image alt][[https://github.com/ivaniguess/Reduction-Project-AST205/blob/main/WorkFlow_Diagram.jpg?raw=true]
 
 References
 
