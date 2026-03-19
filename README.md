@@ -1,4 +1,4 @@
-# Description
+## Project Overview
 In this project, I present the implementation of image reduction techniques for astronomical images obtained with a CCD detector. The code focuses on calibrating raw science images by applying correction procedures of bias, dark, and flat field corrections. These standardized preprocessing steps are crucial for mitigating instrumental artifacts and thermal noise, thereby significantly improving the overall quality of the observations.
 
 
@@ -19,8 +19,7 @@ Email: ifridman@usm.cl
 GitHub: https://github.com/ivaniguess
 
 
-References
-
+## References
 Howell, S. B. (2006). Handbook of CCD astronomy (2nd ed.). Cambridge University Press.
 
 https://docs.astropy.org/en/latest/io/fits/usage/image.html#scaleddata
