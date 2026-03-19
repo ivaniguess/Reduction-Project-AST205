@@ -10,7 +10,7 @@ The workflow diagram summarizes the full reduction process.
 3. Master flat creation
 4. Calibration of science images
 
-![Workflow Diagram][WorkFlow_Diagram.png]
+![WorkFlow_Diagram][WorkFlow_Diagram.png]
 
 References
 
