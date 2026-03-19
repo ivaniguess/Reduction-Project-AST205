@@ -3,7 +3,7 @@
 
 
 
-![image alt][[WorkFlow_Diagram.jpg]
+![Workflow Diagram](WorkFlow_Diagram.jpg)
 
 References
 
