@@ -1,3 +1,10 @@
+## Author
+
+Iván Fridman  
+Email: ifridman@usm.cl
+GitHub: https://github.com/ivaniguess
+
+
 ## Project Overview
 In this project, I present the implementation of image reduction techniques for astronomical images obtained with a CCD detector. The code focuses on calibrating raw science images by applying correction procedures of bias, dark, and flat field corrections. These standardized preprocessing steps are crucial for mitigating instrumental artifacts and thermal noise, thereby significantly improving the overall quality of the observations.
 
@@ -11,13 +18,6 @@ The workflow diagram summarizes the full reduction process.
 4. Calibration of science images
 
 ![Workflow Diagram](WorkFlow_Diagram.png)
-
-## Author
-
-Iván Fridman  
-Email: ifridman@usm.cl
-GitHub: https://github.com/ivaniguess
-
 
 ## References
 Howell, S. B. (2006). Handbook of CCD astronomy (2nd ed.). Cambridge University Press.
