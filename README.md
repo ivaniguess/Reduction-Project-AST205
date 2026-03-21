@@ -9,7 +9,7 @@ GitHub: https://github.com/ivaniguess
 In this project, I present the implementation of image reduction techniques for astronomical images obtained with a CCD detector. The code focuses on calibrating raw science images by applying correction procedures of bias, dark, and flat field corrections. These standardized preprocessing steps are crucial for mitigating instrumental artifacts and thermal noise, thereby significantly improving the overall quality of the observations.
 
 
-The implementation is carried out in Python using libraries such as astropy, numpy, and matplotlib.
+The implementation is carried out in Python using libraries such as astropy, numpy, matplotlib and shutil.
 
 The workflow diagram summarizes the full reduction process. 
 1. Master bias creation
